@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Anagrams.fs" />
     <Compile Include="LargestSeriesProduct.fs" />
     <Compile Include="LogLevels.fs" />
     <Compile Include="PhoneNumber.fs" />
